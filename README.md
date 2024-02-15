@@ -29,7 +29,7 @@ The project uses three different machine learning models to predict the cooling 
 
 ## Installation
 
-- Clone the repository: `git clone https://github.com/Jebathurai-JB/Energy-Efficiency.git`
+- Clone the repository: https://github.com/GIRIVASA/ENERGYEFFICIENCY-.git
 - Install the dependencies: `pip install -r requirements.txt`
     
 ## Usage
